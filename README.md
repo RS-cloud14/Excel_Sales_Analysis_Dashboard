@@ -65,10 +65,10 @@ The dashboard is divided into two main sections:
 
 ## 📷 Dashboard Previews
 ### 🔹 Time Series Dashboard
-![Time Series Dashboard](Screenshot%202025-10-30%20175731.png)
+![Time Series Dashboard](screenshot/Screenshot%202025-10-30%20175731.png)
 
 ### 🔹 Detail Dashboard
-![Detail Dashboard](Screenshot%202025-10-30%20175746.png)
+![Detail Dashboard](screenshot/Screenshot%202025-10-30%20175746.png)
 
 ---
 
